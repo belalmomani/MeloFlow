@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeloFlow</string>
+
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_discover">اكتشف</string>
+    <string name="nav_search">البحث</string>
+    <string name="nav_library">مكتبتي</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="title_downloads">التنزيلات</string>
+    <string name="placeholder_soon">ستتوفر في مرحلة لاحقة</string>
+    <string name="settings_edit_prefs">تعديل التفضيلات الموسيقية</string>
+    <string name="cd_remove">إزالة</string>
+
+    <string name="onb_step1_title">ما لغة الموسيقى التي تفضلها؟</string>
+    <string name="onb_step2_title">اختر الأنواع الموسيقية</string>
+    <string name="onb_step3_title">الفنانون المفضلون</string>
+    <string name="onb_step4_title">متى تستمع غالبًا؟</string>
+    <string name="onb_step5_title">ملخص اختياراتك</string>
+    <string name="lang_arabic">عربية</string>
+    <string name="lang_foreign">أجنبية</string>
+    <string name="lang_both">كلاهما</string>
+    <string name="onb_artist_hint">اسم الفنان</string>
+    <string name="onb_artist_add">إضافة</string>
+    <string name="onb_artist_note">سيتوفر البحث في كتالوج الفنانين عند ربط مصدر محتوى. حاليًا اكتب الأسماء يدويًا.</string>
+    <string name="onb_summary_none">غير محدد</string>
+    <string name="onb_summary_language">لغة الموسيقى</string>
+    <string name="onb_summary_genres">الأنواع</string>
+    <string name="onb_summary_artists">الفنانون</string>
+    <string name="onb_summary_contexts">أوقات الاستماع</string>
+    <string name="onb_next">التالي</string>
+    <string name="onb_back">رجوع</string>
+    <string name="onb_skip">تخطي</string>
+    <string name="onb_start">ابدأ الاستماع</string>
+    <string name="home_demo_banner">بيانات تجريبية: هذه عناصر اختبار وليست كتالوجًا حقيقيًا.</string>
+    <string name="home_error">تعذّر تحميل الفيديوهات.</string>
+    <string name="home_retry">إعادة المحاولة</string>
+    <string name="home_empty">لا يوجد ما يمكن عرضه بعد.</string>
+    <string name="card_unavailable">لا يوجد مصدر تشغيل</string>
+    <string name="player_back">رجوع</string>
+    <string name="player_play">تشغيل</string>
+    <string name="player_pause">إيقاف مؤقت</string>
+    <string name="player_rewind">رجوع ١٠ ثوانٍ</string>
+    <string name="player_forward">تقديم ١٠ ثوانٍ</string>
+    <string name="player_fullscreen">ملء الشاشة</string>
+    <string name="player_exit_fullscreen">الخروج من ملء الشاشة</string>
+    <string name="player_volume">مستوى الصوت</string>
+    <string name="player_retry">إعادة المحاولة</string>
+    <string name="mini_close">إغلاق المشغل</string>
+    <string name="error_no_source">لا يوجد مصدر تشغيل مصرح به لهذا العنصر.</string>
+    <string name="error_network">مشكلة في الشبكة. تحقق من اتصالك وأعد المحاولة.</string>
+    <string name="error_invalid">رابط التشغيل غير صالح أو غير متاح.</string>
+    <string name="error_unknown">فشل التشغيل.</string>
+    <string name="player_next">التالي</string>
+    <string name="player_previous">السابق</string>
+    <string name="notification_permission_denied">الإشعارات متوقفة. سيستمر التشغيل، لكن إشعار الوسائط وأزرار شاشة القفل لن تظهر.</string>
+    <string name="player_pip">صورة داخل صورة</string>
+    <string name="menu_more">المزيد من الخيارات</string>
+    <string name="menu_more_like_this">أعجبني هذا، أرني المزيد</string>
+    <string name="menu_not_interested">لا تقترح هذا النوع</string>
+    <string name="feedback_more_like_this">تم، سنعرض لك المزيد من هذا النوع.</string>
+    <string name="feedback_not_interested">تم، سنقلل اقتراح هذا النوع.</string>
+</resources>
